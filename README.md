@@ -29,7 +29,7 @@
 - 📌 **ISTQB® Foundation Level** – *Candidate (exam completed – awaiting results)*
 ---
 
-## 📫 Let's Connect
+## 📫 LinkedIn and Email
 
 - [LinkedIn](https://www.linkedin.com/in/nour-allah-khaled)
 - 📧 nourallahk7@gmail.com 
