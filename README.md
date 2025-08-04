@@ -2,7 +2,6 @@
 
 🎯 **Software QA Tester**  
 💻 Specialized in **Manual & Automation Testing**  
-🧪 Passionate about breaking software to make it better  
 ---
 
 ## 🛠️ Technologies & Tools
