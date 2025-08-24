@@ -1,37 +1,61 @@
-# 👋 Hi there, I'm Nour Allah!
+<p align="center"> 
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="800"> 
+</p>
 
-🎯 **Software QA Tester**  
-💻 Specialized in **Manual & Automation Testing**  
+# ✨ Hey there, I’m Nour Allah Khaled! 👋
+
+🚀 **Software QA Tester | Manual & Automation Testing Enthusiast**  
+💡 Passionate about ensuring software quality through **efficient test strategies, automation, and attention to detail**.  
+
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack and Skills  
 
-- **Programming Languages:** Java, C++, C, C#   
+- **Programming Languages:** Java, C++, C, C#  
 - **Web Technologies:** HTML, CSS  
 - **Automation Tools:** Selenium WebDriver, RestAssured  
 - **API Testing:** Postman  
 - **Test Frameworks:** TestNG  
 - **Reporting & Documentation:** Excel, Google Sheets, ClickUp  
-- **Version Control:** Git & GitHub
+- **Version Control:** Git & GitHub  
+
 ---
 
-## 📂 Projects
+## 📂 Featured Projects  
 
-- 🔹 **Swag Lab Web Automation Project** – Web UI testing using Selenium & Java  
-- 🔹 **API Automation Final Project** – API testing with RestAssured and TestNG  
-- 🔹 **PaintBrush JavaFX** – A simple paint desktop application using JavaFX  
-- 🔹 **TechVerse Website** – Static website built with HTML, CSS, and Bootstrap  
+### 🔹 Swag Lab Web Automation Project  
+Web UI testing framework using **Selenium & Java** with **TestNG** for structured execution and reporting.  
+
+### 🔹 API Automation Final Project  
+Automated API testing with **RestAssured** and **TestNG**, validating request/response payloads and integrations.  
+
+### 🔹 PaintBrush JavaFX  
+A simple **desktop paint application** built using **JavaFX**, supporting drawing and editing features.  
+
+### 🔹 TechVerse Website  
+A static **portfolio-style website** built with **HTML, CSS, and Bootstrap**.  
+
 ---
 
-## 📜 Certifications
+## 📜 Certifications  
 
-- 📌 **ISTQB® Foundation Level** – *Candidate (exam completed – awaiting results)*
+- 🏆 **ISTQB® Certified Tester – Foundation Level**  
+  *(Certificate ID: 250715014)*  
+
 ---
 
-## 📫 LinkedIn and Email
+## 🌐 Let’s Connect!  
 
-- [LinkedIn](https://www.linkedin.com/in/nour-allah-khaled)
-- 📧 nourallahk7@gmail.com 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Collaboration Gif" width="400">
+</p>  
+
+<p align="center">
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nour-allah-khaled">Nour Allah Khaled</a> <br>
+  📧 <b>Email:</b> <a href="mailto:nourallahk7@gmail.com">nourallahk7@gmail.com</a> <br>
+  💻 <b>GitHub:</b> <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a>
+</p>  
+
 ---
 
-⭐ *Currently seeking opportunities to grow in QA Testing and contribute to real-world projects.*
+⭐ *Currently seeking opportunities to grow in QA Testing and contribute to real-world projects.*  
