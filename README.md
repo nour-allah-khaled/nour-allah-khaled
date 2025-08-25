@@ -53,7 +53,6 @@ A static **portfolio-style website** built with **HTML, CSS, and Bootstrap**.
 <p align="center">
   🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nour-allah-khaled">Nour Allah Khaled</a> <br>
   📧 <b>Email:</b> <a href="mailto:nourallahk7@gmail.com">nourallahk7@gmail.com</a> <br>
-  💻 <b>GitHub:</b> <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a>
 </p>  
 
 ---
