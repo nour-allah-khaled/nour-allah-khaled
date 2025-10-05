@@ -49,11 +49,7 @@ A static **portfolio-style website** built with **HTML, CSS, and Bootstrap**.
 
 ## 🌐 Let’s Connect!  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Collaboration Gif" width="400">
-</p>  
-
-<p align="center">
+<p align="left">
   🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nour-allah-khaled">Nour Allah Khaled</a> <br>
   📧 <b>Email:</b> <a href="mailto:nourallahk7@gmail.com">nourallahk7@gmail.com</a> <br>
 </p>  
