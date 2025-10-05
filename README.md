@@ -13,15 +13,18 @@
 
 - **Programming Languages:** Java, C++, C, C#  
 - **Web Technologies:** HTML, CSS  
-- **Automation Tools:** Selenium WebDriver, RestAssured  
+- **Automation Tools:** Selenium WebDriver, RestAssured, Appium
 - **API Testing:** Postman  
 - **Test Frameworks:** TestNG  
-- **Reporting & Documentation:** Excel, Google Sheets, ClickUp  
+- **Reporting & Documentation:** Excel, Google Sheets, ClickUp, Jira
 - **Version Control:** Git & GitHub  
 
 ---
 
 ## 📂 Featured Projects  
+
+### 🔹 Swag Lab Mobile Automation Project - Appium
+Mobile UI testing framework using Appium & Java with TestNG for structured execution and reporting.
 
 ### 🔹 Swag Lab Web Automation Project  
 Web UI testing framework using **Selenium & Java** with **TestNG** for structured execution and reporting.  
