@@ -24,7 +24,7 @@
 ## 📂 Featured Projects  
 
 ### 🔹 Swag Lab Mobile Automation Project - Appium
-Mobile UI testing framework using Appium & Java with TestNG for structured execution and reporting.
+Mobile UI testing framework using **Appium & Java** with **TestNG** for structured execution and reporting.
 
 ### 🔹 Swag Lab Web Automation Project  
 Web UI testing framework using **Selenium & Java** with **TestNG** for structured execution and reporting.  
