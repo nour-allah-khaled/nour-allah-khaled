@@ -43,25 +43,23 @@ I focus on writing clear test cases and enhancing them with automation to improv
 
 ### 🔹 Swag Labs Mobile Automation Project - Appium
 Mobile UI testing framework using **Appium & Java** with **TestNG** for structured execution and reporting.  
-🔗 **GitHub Repo:** [Swag Labs Mobile](https://github.com/nour-allah-khaled/SwagLabs_Appium_Project)
+🔗 **GitHub Repo:** [SwagLabs Mobile Automation Project](https://github.com/nour-allah-khaled/SwagLabs_Appium_Project)
 
 ### 🔹 Swag Labs Web Automation Project  
 Web UI testing framework using **Selenium & Java** with **TestNG** for structured execution and reporting.  
-🔗 **GitHub Repo:** [Swag Labs Web](https://github.com/nour-allah-khaled/Swag_Lab-Web-Automation-Project)
+🔗 **GitHub Repo:** [SwagLabs Web Project](https://github.com/nour-allah-khaled/Swag_Lab-Web-Automation-Project)
 
 ### 🔹 API Automation Final Project  
 Automated API testing with **RestAssured** and **TestNG**, validating request/response payloads and integrations.  
-🔗 **GitHub Repo:** [API Automation](https://github.com/nour-allah-khaled/API-Automation-FinalProject-ITI)
+🔗 **GitHub Repo:** [API Automation Project](https://github.com/nour-allah-khaled/API-Automation-FinalProject-ITI)
 
 ### 🔹 PaintBrush JavaFX  
 A simple **desktop paint application** built using **JavaFX**, supporting drawing and editing features.  
-🔗 **GitHub Repo:** [PaintBrush JavaFX](https://github.com/nour-allah-khaled/PaintBrush-JavaFX)
+🔗 **GitHub Repo:** [PaintBrush Project](https://github.com/nour-allah-khaled/PaintBrush-JavaFX)
 
 ### 🔹 TechVerse Website  
 A static **portfolio-style website** built with **HTML, CSS, and Bootstrap**.  
 🔗 **GitHub Repo:** [TechVerse Website](https://github.com/nour-allah-khaled/TECHVERSE)
-
-📂 **All of my projects are available at:** [GitHub Repositories](https://github.com/Ashraaf7?tab=repositories)
 
 ---
 
@@ -70,7 +68,7 @@ A static **portfolio-style website** built with **HTML, CSS, and Bootstrap**.
 - **ISTQB® Certified Tester – Foundation Level**  
   *(Certificate ID: 250715014) - [View Certificate](https://scr.istqb.org/?name=&number=250715014&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10)*  
 
-- **Certified Mobile Tester (CMT)**  
+- **ISTQB® Certified Mobile Tester (CMT)**  
   *(Certificate ID: 251204078)*
 
 ---
