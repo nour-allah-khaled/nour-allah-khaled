@@ -8,7 +8,7 @@
 QA Engineer with a strong background in **Manual and Automation Testing** and hands-on practice in automating test scenarios for web, mobile, and API applications.  
 I focus on writing clear test cases and enhancing them with automation to improve test coverage and reliability.
 
-📂 **All of my projects are available at:** [GitHub Repositories](https://github.com/Ashraaf7?tab=repositories)
+📂 **All of my projects are available at:** [GitHub Repositories](https://github.com/nour-allah-khaled?tab=repositories)
 
 ---
 
